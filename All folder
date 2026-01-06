@@ -1,0 +1,5 @@
+inventory-app/
+├── data.py
+├── status.py
+├── display.py
+└── main.py
